@@ -1,0 +1,17 @@
+{
+    "extensionName": {
+        "message": "Art stealer",
+        "description": "Name of the extension."
+    },
+
+    "extensionDescription": {
+        "message": "Steals source on the internet and saves it on my website.",
+        "description": "Description of the add-on."
+    },
+
+    "menuItemSteal": {
+        "message": "Upload to art.janeo.me",
+        "description": "Title of context menu item that adds a green border when clicked."
+    }
+}
+  
